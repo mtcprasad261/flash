@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite1" parallel="tests">
+  
+  <test name="TestOne">
+    <classes>
+       <class name="pomPack.tests.LoginTest"/>
+    </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->
